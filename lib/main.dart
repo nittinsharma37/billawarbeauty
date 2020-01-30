@@ -1,4 +1,4 @@
-import 'package:billawarbeauty/pages/loginsignup.dart';
+import 'package:billawarbeauty/pages/loginpage.dart';
 import 'package:flutter_web/material.dart';
 
 void main() => runApp(MyBlog());
